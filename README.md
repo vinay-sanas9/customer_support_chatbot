@@ -1,5 +1,5 @@
 # customer_support_chatbot
-A simple AI-based chatbot built using Python and TextBlob.
+A simple AI-based chatbot built using Python.
 
 ## Features
 - Responds to customer queries
